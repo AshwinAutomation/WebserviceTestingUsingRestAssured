@@ -1,0 +1,151 @@
+# Respective  jar required /dependencies for API call
+
+1.Rest-Assured
+=================
+<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>4.3.0</version>
+    <scope>test</scope>
+</dependency>
+
+
+2.json-schema-validator
+========================
+
+<!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>json-schema-validator</artifactId>
+    <version>4.3.0</version>
+</dependency>
+
+3.json-path
+=====================
+
+<!-- https://mvnrepository.com/artifact/io.rest-assured/json-path -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>json-path</artifactId>
+    <version>4.3.0</version>
+</dependency>
+
+4.xml-path
+===================
+
+<!-- https://mvnrepository.com/artifact/io.rest-assured/xml-path -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>xml-path</artifactId>
+    <version>4.3.0</version>
+</dependency>
+
+5.testNG
+====================
+
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.1.0</version>
+    <scope>test</scope>
+</dependency>
+
+6.java-hamcrest
+====================
+<!-- https://mvnrepository.com/artifact/org.hamcrest/java-hamcrest -->
+<dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>java-hamcrest</artifactId>
+    <version>2.0.0.0</version>
+    <scope>test</scope>
+</dependency>
+
+
+7.hamcrest-core
+================
+
+<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core -->
+<dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest-core</artifactId>
+    <version>2.2</version>
+    <scope>test</scope>
+</dependency>
+
+8.hamcrest-library
+================
+
+<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-library -->
+<dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest-library</artifactId>
+    <version>2.2</version>
+    <scope>test</scope>
+</dependency>
+	
+9.hamcrest-all
+================
+	<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-all -->
+<dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest-all</artifactId>
+    <version>1.3</version>
+    <scope>test</scope>
+</dependency>
+	
+	
+	
+	
+other jars
+================
+
+
+		<!-- https://mvnrepository.com/artifact/org.json/json -->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20090211</version>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-core</artifactId>
+			<version>2.2.3</version>
+		</dependency>
+<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>4.0.0</version>
+    <scope>test</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.jayway.restassured/rest-assured -->
+<dependency>
+    <groupId>com.jayway.restassured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>2.9.0</version>
+    <scope>test</scope>
+</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+		<dependency>
+			<groupId>com.googlecode.json-simple</groupId>
+			<artifactId>json-simple</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.6.2</version>
+			<scope>test</scope>
+		</dependency>
+	
+	
+	
+	
